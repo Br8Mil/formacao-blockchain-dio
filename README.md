@@ -1,4 +1,4 @@
-### Este portifólio contém os desafios, atividades e conteúdos propostos para o **Boot Camp** “[Blockchain Developer with Solidity](https://web.dio.me/track/0709934a-cb42-47e7-a0d6-452ebd563522 "Boot Camp")” com duração de 54 horas.
+### Este portfólio contém os desafios, atividades e conteúdos propostos para o **Boot Camp** “[Blockchain Developer with Solidity](https://web.dio.me/track/0709934a-cb42-47e7-a0d6-452ebd563522 "Boot Camp")” com duração de 54 horas.
 
 
 <img src="https://hermes.digitalinnovation.one/assets/diome/logo-full.svg" width="100"/>
