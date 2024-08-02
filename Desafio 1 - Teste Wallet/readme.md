@@ -17,23 +17,24 @@
 3. Concusão se nem o meu da certo e o dele também (nem a ia da microsoft - copilot viu nada de errado nos dois) não e possível que o problema não seja no código e sim algo na minha máquina.
 
 ## **Aviso 1**
-- Programas usados
 
-> [Node js](https://nodejs.org/en/download/package-manager/current)
+### Programas usados
 
-> [Electrum - Caso a carteira tivesse sucesso na criação](https://electrum.org/#download)
+1. [Node js](https://nodejs.org/en/download/package-manager/current)
+   
+3. [Bitcoin Faucet - Receber cripto de teste](https://bitcoinfaucet.uo1.net/)
+   
+5. [Blockchain - Verificar se tal carteira existe](https://www.blockchain.com/pt/explorer/)
+   
+7. [Electrum - Caso a carteira tivesse sucesso na criação](https://electrum.org/#download)
 
 Depois de instalar e necessário mudar o destino do atalho como na imagem abaixo colocando **--testnet** no final para habilitar o mesmo para carteira de teste.
 
-![exemplo]()
-
-> [Bitcoin Faucet - Receber cripto de teste](https://bitcoinfaucet.uo1.net/)
-
-> [Blockchain - Verificar se tal carteira existe](https://www.blockchain.com/pt/explorer/)
+![exemplo](https://github.com/Br8Mil/formacao-blockchain-dio/blob/main/Desafio%201%20-%20Teste%20Wallet/exemplo.png)
 
 ## **Aviso 2**
 
-Se quizer etstar a cateira e necessário antes ter o [Node js](https://nodejs.org/en/download/package-manager/current
+Se quizer testar a criação da carteira, e necessário antes ter o [Node js](https://nodejs.org/en/download/package-manager/current
 ) instalado.
 
 Caso queira testar com a última versão das bibliotecas, delete a pasta “**node\_modules**” e dos dois arquivos “**package**” e “**package-lock**”. Abra o [VS Code](https://code.visualstudio.com/download) ou programa e escolha a pasta “**bitcointestnet**”, dentro do programa abra o terminal e digite os seguintes comandos
@@ -41,12 +42,12 @@ Caso queira testar com a última versão das bibliotecas, delete a pasta “**no
 
 - **Comando (vai criar o arquivo package)**
 
-        > npm init -y
+        npm init -y
 
 - **Comando (espere baixar os arquivos)**
 
-        > npm install bip39 bip32@2.0.6 bitcoinjs-lib --save
+        npm install bip39 bip32@2.0.6 bitcoinjs-lib --save
 
 - **Comando (vai executar o script e retornar o log contendo a chave pública, privada e a mnemonic)**
 
-        > node .\src\createWallet.js
+        node .\src\createWallet.js
