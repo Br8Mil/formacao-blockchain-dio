@@ -39,20 +39,34 @@ iaa1ld2ck02x0909lg5tkqwdkfnsnsz7mmg6952jar
 
 É necessário ter uma carteira ativa na metamask, caso queira ver como se faz, veja o ***Tutorial.md (1 \- Criar carteira no metamask).***
 
-Abri o site do open sea e escolhi a opção ***create***.  
-![image1][https://github.com/Br8Mil/formacao-blockchain-dio/blob/main/Desafio%204%20-%20Criando%20NFT%20na%20Pr%C3%A1tica/IMG/01.png]  
-depois o site pediu para que eu verificasse o tipo de conexão, escolhi o metamask.  
-![image2][https://github.com/Br8Mil/formacao-blockchain-dio/blob/main/Desafio%204%20-%20Criando%20NFT%20na%20Pr%C3%A1tica/IMG/02.png] 
-A extensão abriu e pediu autorização.  
-![image3][https://github.com/Br8Mil/formacao-blockchain-dio/blob/main/Desafio%204%20-%20Criando%20NFT%20na%20Pr%C3%A1tica/IMG/03.png] 
-depois de conectar a carteira, o site me deu duas opções de escolha, selecionei a opção ***Drop***  
-![image4][]
-Fui preenchendo as informações.  
-![image5][]
-O meta mask me pediu autorização para trocar da rede do Ethereum para a da Polygon, pois eu a havia escolhido como na imagem acima.  
-![image6][]
+Abri o site do open sea e escolhi a opção ***create***.
+
+<img src="https://github.com/Br8Mil/formacao-blockchain-dio/blob/main/Desafio%204%20-%20Criando%20NFT%20na%20Pr%C3%A1tica/IMG/01.png" width=""/>
+
+Depois o site pediu para que eu verificasse o tipo de conexão, escolhi o metamask.
+
+<img src="https://github.com/Br8Mil/formacao-blockchain-dio/blob/main/Desafio%204%20-%20Criando%20NFT%20na%20Pr%C3%A1tica/IMG/02.png" width=""/>
+
+A extensão abriu e pediu autorização.
+
+<img src="https://github.com/Br8Mil/formacao-blockchain-dio/blob/main/Desafio%204%20-%20Criando%20NFT%20na%20Pr%C3%A1tica/IMG/03.png" width=""/>
+
+Depois de conectar a carteira, o site me deu duas opções de escolha, selecionei a opção ***Drop***
+
+<img src="https://github.com/Br8Mil/formacao-blockchain-dio/blob/main/Desafio%204%20-%20Criando%20NFT%20na%20Pr%C3%A1tica/IMG/04.png" width=""/>
+
+Fui preenchendo as informações.
+
+<img src="https://github.com/Br8Mil/formacao-blockchain-dio/blob/main/Desafio%204%20-%20Criando%20NFT%20na%20Pr%C3%A1tica/IMG/05.png" width=""/>
+
+O meta mask me pediu autorização para trocar da rede do Ethereum para a da Polygon, pois eu a havia escolhido como na imagem acima.
+
+<img src="https://github.com/Br8Mil/formacao-blockchain-dio/blob/main/Desafio%204%20-%20Criando%20NFT%20na%20Pr%C3%A1tica/IMG/06.png" width=""/>
+
 Mas como não tinha saldo mínimo, não finalizei a criação do NFT. (OBS, quando a rede está muito ocupada eles pedem um valor mínimo, quando não, é possível criar o NFT de graça).  
-![image7][]
+
+<img src="https://github.com/Br8Mil/formacao-blockchain-dio/blob/main/Desafio%204%20-%20Criando%20NFT%20na%20Pr%C3%A1tica/IMG/07.png" width=""/>
+
 Não vou pagar , mesmo que seja barato, afinal não tenho interesse em criar realmente essa NFT. (talvez um dia eu crie minhas próprias artes e tokenize por aqui).
 
 ———————————————————————————————————————
@@ -69,5 +83,6 @@ Não vou pagar , mesmo que seja barato, afinal não tenho interesse em criar rea
 crie um nova carteira no Keplr (mude a rede para blockchain íris)  
 Abra o uptick e vá seguindo os passos.
 
-Desculpe pessoal, vá ver vídeos do youtube de como criar nessa rede pois aqui é pago, certo que o expert menciona que ele recebeu algumas moedas (Íris) para distribuir, mas como o vídeo e de muito tempo atrás, não vou encher o saco dele (talvez até nem tenha mais).  
-![][image8]
+Desculpe pessoal, vá ver vídeos do youtube de como criar nessa rede pois aqui é pago, certo que o expert menciona que ele recebeu algumas moedas (Íris) para distribuir, mas como o vídeo e de muito tempo atrás, não vou encher o saco dele (talvez até nem tenha mais).
+
+<img src="https://github.com/Br8Mil/formacao-blockchain-dio/blob/main/Desafio%204%20-%20Criando%20NFT%20na%20Pr%C3%A1tica/IMG/08.png" width=""/>
