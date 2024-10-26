@@ -2,12 +2,12 @@
 
 ### Geração
 
-![geração da carteira](https://github.com/Br8Mil/formacao-blockchain-dio/blob/main/Desafio%201%20-%20Teste%20Wallet/gera%C3%A7%C3%A3o.png)
+![geração da carteira](geração.png)
 
 ### **ERRO**
 
-![erro1](https://github.com/Br8Mil/formacao-blockchain-dio/blob/main/Desafio%201%20-%20Teste%20Wallet/erro1.png)
-![erro2](https://github.com/Br8Mil/formacao-blockchain-dio/blob/main/Desafio%201%20-%20Teste%20Wallet/erro2.png)
+![erro1](erro1.png)
+![erro2](erro2.png)
 
 **OBS:**
 1. Mesmo pedindo pra ia revisar o meu código não foi encontrado erros (também comparei com o dado pelo expert).
@@ -30,7 +30,7 @@
 
 Depois de instalar e necessário mudar o destino do atalho como na imagem abaixo colocando **--testnet** no final para habilitar o mesmo para carteira de teste.
 
-![exemplo](https://github.com/Br8Mil/formacao-blockchain-dio/blob/main/Desafio%201%20-%20Teste%20Wallet/exemplo.png)
+![exemplo](exemplo.png)
 
 ## **Aviso 2**
 
